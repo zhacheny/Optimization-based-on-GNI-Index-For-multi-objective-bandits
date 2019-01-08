@@ -9,3 +9,6 @@ In order to draw figures similar to Fig 2 in the paper, some parameters in the f
 2. D the number of dimentions 
 3. learn_Rate Learning_rate 
 4. Iteration_num number of iterations in MO-OGDE and MO-LP 
+
+Reference: 
+Busa-Fekete, Robert, et al. "Multi-objective Bandits: Optimizing the Generalized Gini Index." arXiv preprint arXiv:1706.04933 (2017).
